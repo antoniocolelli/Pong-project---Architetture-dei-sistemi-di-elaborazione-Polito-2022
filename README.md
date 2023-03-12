@@ -24,3 +24,5 @@ There are two possible ways to use it:
 - Click on "Run"
 # Description
 For a detailed description of the project, please refer to the following link: https://github.com/antoniocolelli/Pong-project---Architetture-dei-sistemi-di-elaborazione-Polito-2022/blob/master/extra_points_request_2022.pdf
+
+https://user-images.githubusercontent.com/63364810/224555082-82a89e30-e553-4c13-90e6-5c06bee8610e.mp4
