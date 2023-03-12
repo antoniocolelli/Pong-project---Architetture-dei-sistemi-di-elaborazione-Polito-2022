@@ -1,0 +1,13 @@
+.\lib_gestione_pong.o: gestione_pong\lib_gestione_pong.c
+.\lib_gestione_pong.o: C:\Users\Antonio\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.0\Device\Include\lpc17xx.h
+.\lib_gestione_pong.o: C:\Users\Antonio\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\core_cm3.h
+.\lib_gestione_pong.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\lib_gestione_pong.o: C:\Users\Antonio\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_version.h
+.\lib_gestione_pong.o: C:\Users\Antonio\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_compiler.h
+.\lib_gestione_pong.o: C:\Users\Antonio\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\cmsis_armcc.h
+.\lib_gestione_pong.o: C:\Users\Antonio\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include\mpu_armv7.h
+.\lib_gestione_pong.o: C:\Users\Antonio\AppData\Local\Arm\Packs\Keil\LPC1700_DFP\2.7.0\Device\Include\system_LPC17xx.h
+.\lib_gestione_pong.o: gestione_pong\../GLCD/GLCD.h
+.\lib_gestione_pong.o: gestione_pong\gestione_pong.h
+.\lib_gestione_pong.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\lib_gestione_pong.o: gestione_pong\../DAC/dac.h
