@@ -25,6 +25,6 @@ There are two possible ways to use it:
 For a detailed description of the project, please refer to the following link: https://github.com/antoniocolelli/Pong-project---Architetture-dei-sistemi-di-elaborazione-Polito-2022/blob/master/extra_points_request_2022.pdf
 
 # Demo
-The video demo shows the game running on a simulator of the Land Tiger board, which results in a lower execution speed compared to the actual board.
+The video demo shows the game running on a simulator of the Land Tiger board; for this reason the game results in a lower execution speed compared to the actual speed using the real board.
 
 https://user-images.githubusercontent.com/63364810/224555082-82a89e30-e553-4c13-90e6-5c06bee8610e.mp4
